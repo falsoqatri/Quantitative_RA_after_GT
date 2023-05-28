@@ -9,8 +9,9 @@ This code reads the asset values and threat levels from two text files (asset_va
 
 <h2>2.	Internal supply chain risks include risk events caused by (Shahram, et al., 2013)</h2>
 
-- <b>Python</b> 
-- <b>Jupiter</b>
+- <b>a.	Disruptions of internal operations</b> 
+- <b>b.	Price Increases: Rising prices are caused by changes in supply or demand, currency instability, and customs tariffs.</b>
+- <b>a.	Disruptions of internal operations</b> 
 
 <h2>Environments Used </h2>
 
