@@ -2,12 +2,12 @@
 
 
 
-<h2>Description</h2>
+<h2>1.	Quantitative risk modelling approach</h2>
 This code reads the asset values and threat levels from two text files (asset_values.txt and threat_levels.txt) that contain comma-separated values for each asset and threat. It then defines two functions (calculate_ale and interpret_ale) that work as in the previous example. Finally, it uses the read asset values and threat levels to calculate the annualized loss expectancy for a given asset and threat, and interprets the result based on the same scoring system as before.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>2.	Internal supply chain risks include risk events caused by (Shahram, et al., 2013)</h2>
 
 - <b>Python</b> 
 - <b>Jupiter</b>
