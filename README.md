@@ -26,6 +26,18 @@ Impact: the impact is the amount you will spend if a given identified risk occur
 <br />
 Probability: probability is the likelihood that any event will occur. 
 <br />
+The following table performs the calculation needed using data from similar supply chain risk.
+<br />
+| Id  | Risk | Probability | Impact ($) | EVM ($) |
+| --- | --- | --- | --- | --- |
+
+| 1	| Disruptions of internal operations	| 35%	| 5000	| 1750 |
+| 2	| Price Increases	 | 25%	| 10000	| 2500 |
+| 3	| Shortages	| 20%	| 3000	| 600 |
+| 4	| Supplier Relationships	| 5%	| 2000	 | 100 |
+| 5	| Quality failure	| 15%	| 5000	 | 750 |
+| 6	| Delivery Failures	| 10%	| 4000	 | 400 |
+| 7	| Supply Shocks	| 8%	| 3000	| 240 |
 
 <h2>Environments Used </h2>
 
