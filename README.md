@@ -46,9 +46,9 @@ The quantitative risk analysis resulted in the the following list of risk as sho
 <h2>References </h2>
 
 <br />
-Shahram, G., Hosein, G. & Mahdi , k. (2013). Difference between Internal and External Supply Chain Risks on its Performance.. Singaporean Journal of Business , Economics and Management Studies.
+- Shahram, G., Hosein, G. & Mahdi , k. (2013). Difference between Internal and External Supply Chain Risks on its Performance.. Singaporean Journal of Business , Economics and Management Studies.
 <br />
-Tuomas, M. (2022). Application of decision tree analysis and expected monetary value technique in quantitative risk management: Evaluation of less risky investment strategy. School of Technology and Innovations.
+- Tuomas, M. (2022). Application of decision tree analysis and expected monetary value technique in quantitative risk management: Evaluation of less risky investment strategy. School of Technology and Innovations.
 <br />
-Wagner, D. & Shiraji , K. (2019). Calculating project risk contingency Expected Monetary Value (EMV) vs Monte Carlo Analysis. Synergy.
+- Wagner, D. & Shiraji , K. (2019). Calculating project risk contingency Expected Monetary Value (EMV) vs Monte Carlo Analysis. Synergy.
 
