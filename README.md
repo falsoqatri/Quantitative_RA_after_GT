@@ -20,9 +20,12 @@ This code reads the asset values and threat levels from two text files (asset_va
 The calculation is done using the formula:  Expected Monetary Value (EMV) = Probability * Impact (Wagner & Shiraji , 2019)
 <br />
  Where :
+ <br />
  
 Impact: the impact is the amount you will spend if a given identified risk occurs.
+<br />
 Probability: probability is the likelihood that any event will occur. 
+<br />
 
 <h2>Environments Used </h2>
 
