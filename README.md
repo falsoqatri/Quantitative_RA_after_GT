@@ -38,6 +38,11 @@ The following table performs the calculation needed using data from similar supp
 | 6	| Delivery Failures	| 10%	| 4000	 | 400 |
 | 7	| Supply Shocks	| 8%	| 3000	| 240 |
 
+The quantitative risk analysis resulted in the the following list of risk as shown by the following graph
+<br />
+
+![EVM](https://github.com/falsoqatri/qualitative_risk_assessment_LAB/assets/134807849/16826796-4c48-4438-b56b-90cee52337df)
+
 <h2>Environments Used </h2>
 
 - <b>Windows 11</b> (21H2)
