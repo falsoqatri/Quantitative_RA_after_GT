@@ -9,9 +9,13 @@ This code reads the asset values and threat levels from two text files (asset_va
 
 <h2>2.	Internal supply chain risks include risk events caused by (Shahram, et al., 2013)</h2>
 
-- <b>a.	Disruptions of internal operations</b> 
-- <b>b.	Price Increases: Rising prices are caused by changes in supply or demand, currency instability, and customs tariffs.</b>
-- <b>a.	Disruptions of internal operations</b> 
+- <b>Disruptions of internal operations</b> 
+- <b>Price Increases: Rising prices are caused by changes in supply or demand, currency instability, and customs tariffs.</b>
+- <b>Shortages: These can arise from lacking a component, material, or part needed to produce a finished product</b> 
+- <b>Supplier Relationships</b> 
+- <b>Quality Failures: Quality failures occur when shipments of certain parts don’t meet the specifications.</b> 
+- <b>Delivery Failures: Carrier and logistical issues can result in late deliveries, damaged packages, or lost shipments.</b> 
+- <b>Supply Shocks: Sudden worldwide or industry-wide drop in supply.</b> 
 
 <h2>Environments Used </h2>
 
