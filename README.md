@@ -18,7 +18,9 @@ This code reads the asset values and threat levels from two text files (asset_va
 - <b>Supply Shocks: Sudden worldwide or industry-wide drop in supply.</b> 
 
 The calculation is done using the formula:  Expected Monetary Value (EMV) = Probability * Impact (Wagner & Shiraji , 2019)
+<br />
  Where :
+ 
 Impact: the impact is the amount you will spend if a given identified risk occurs.
 Probability: probability is the likelihood that any event will occur. 
 
