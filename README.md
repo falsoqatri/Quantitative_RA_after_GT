@@ -30,7 +30,6 @@ The following table performs the calculation needed using data from similar supp
 <br />
 | Id  | Risk | Probability | Impact ($) | EVM ($) |
 | --- | --- | --- | --- | --- |
-
 | 1	| Disruptions of internal operations	| 35%	| 5000	| 1750 |
 | 2	| Price Increases	 | 25%	| 10000	| 2500 |
 | 3	| Shortages	| 20%	| 3000	| 600 |
