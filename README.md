@@ -17,6 +17,11 @@ This code reads the asset values and threat levels from two text files (asset_va
 - <b>Delivery Failures: Carrier and logistical issues can result in late deliveries, damaged packages, or lost shipments.</b> 
 - <b>Supply Shocks: Sudden worldwide or industry-wide drop in supply.</b> 
 
+The calculation is done using the formula:  Expected Monetary Value (EMV) = Probability * Impact (Wagner & Shiraji , 2019)
+ Where :
+Impact: the impact is the amount you will spend if a given identified risk occurs.
+Probability: probability is the likelihood that any event will occur. 
+
 <h2>Environments Used </h2>
 
 - <b>Windows 11</b> (21H2)
