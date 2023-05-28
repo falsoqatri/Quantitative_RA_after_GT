@@ -43,12 +43,12 @@ The quantitative risk analysis resulted in the the following list of risk as sho
 
 ![EVM](https://github.com/falsoqatri/qualitative_risk_assessment_LAB/assets/134807849/16826796-4c48-4438-b56b-90cee52337df)
 
-<h2>Environments Used </h2>
+<h2>References </h2>
 
-- <b>Windows 11</b> (21H2)
-
-<h2>Program walk-through:</h2>
-
-<p align="left">
-You can customize the text files to match your own data format, and adjust the code accordingly. Additionally, you can add error handling to handle cases where the files are missing or contain invalid data.
 <br />
+Shahram, G., Hosein, G. & Mahdi , k. (2013). Difference between Internal and External Supply Chain Risks on its Performance.. Singaporean Journal of Business , Economics and Management Studies.
+<br />
+Tuomas, M. (2022). Application of decision tree analysis and expected monetary value technique in quantitative risk management: Evaluation of less risky investment strategy. School of Technology and Innovations.
+<br />
+Wagner, D. & Shiraji , K. (2019). Calculating project risk contingency Expected Monetary Value (EMV) vs Monte Carlo Analysis. Synergy.
+
